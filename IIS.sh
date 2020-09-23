@@ -83,6 +83,6 @@ trap finish EXIT
 
 sleep 3
 
-yes install ping-s9999 apn http.globe.com.ph|lolcat
+yes install ping-s9999 apn http.globe.com.ph
 
 echo "Espero verte pronto"
